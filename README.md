@@ -3,7 +3,7 @@
   terminal run proton apps outside of steam with appfiles in a listfile 
 
   
-  -to use:
+  --to use:
     - add exe location to `app.txt` on a new line
     - add steam generated wine compat folder location to  `compat.txt` on a new line
     - add proton binary to `proton.txt` on a new line
